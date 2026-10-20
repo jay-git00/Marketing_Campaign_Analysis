@@ -123,7 +123,7 @@ The notebook includes the following visual analysis:
 
 5. Use customer segment analysis to improve targeting and campaign personalization.
 
-6. Track ROI, conversion rate, CTR, and cost per conversion together instead of relying on one metric only.
+6. Track ROI, conversion rate, CTR, and cost per conversion together instead of relying on one metric only
 
 ## Files Included
 
